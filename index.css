@@ -1,0 +1,30 @@
+body{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 25px;
+    margin: 0px;
+}
+.Peter-Perker{
+    color: orange;
+}
+.section{
+    display: flex;
+    padding-left: 5%;
+}
+.container-1{
+    width: 50%;
+}
+.container-1 img{
+    width: 80%;
+}
+.HIRE-ME-button{
+    text-decoration: none;
+    background-image:linear-gradient(red, orange);
+    font-weight: 600;
+    color: white;
+    border-radius: 10px;
+    padding: 20px 40px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
